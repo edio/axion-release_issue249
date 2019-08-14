@@ -1,0 +1,3 @@
+[submodule "axion-release_issue249_gradle"]
+	path = axion-release_issue249_gradle
+	url = git@github.com:edio/axion-release_issue249_gradle.git
